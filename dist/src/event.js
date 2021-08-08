@@ -1,0 +1,11 @@
+export const ProtocolEventName = {
+    CHANNEL_UPDATE_EVENT: "CHANNEL_UPDATE_EVENT",
+};
+export const ChainReaderEvents = {
+    CHANNEL_DISPUTED: "CHANNEL_DISPUTED",
+    CHANNEL_DEFUNDED: "CHANNEL_DEFUNDED",
+    TRANSFER_DISPUTED: "TRANSFER_DISPUTED",
+    TRANSFER_DEFUNDED: "TRANSFER_DEFUNDED",
+};
+export const ChainServiceEvents = Object.assign(Object.assign({}, ChainReaderEvents), { TRANSACTION_SUBMITTED: "TRANSACTION_SUBMITTED", TRANSACTION_MINED: "TRANSACTION_MINED", TRANSACTION_FAILED: "TRANSACTION_FAILED" });
+//# sourceMappingURL=event.js.map

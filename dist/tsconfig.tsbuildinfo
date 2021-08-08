@@ -1,0 +1,1368 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "signature": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../src/basic.ts": {
+        "version": "119f67ee72ab3d34db34878afdaa09ec1957259ffa6c6e11889487f85b2a63bc",
+        "signature": "8cb20628830b0298a6eaacfe1517e41e9e821492acd91d3808c21f8590a6da61",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/bytes/lib/index.d.ts": {
+        "version": "2b87abc33d1d34762475c9393c087d2308547de24327d98b2c719826f4874b23",
+        "signature": "2b87abc33d1d34762475c9393c087d2308547de24327d98b2c719826f4874b23",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": {
+        "version": "bdf5a95eb0a2dd1d39805bdf51b46ba012bb9b92b2ddaae16219595bba7678a5",
+        "signature": "bdf5a95eb0a2dd1d39805bdf51b46ba012bb9b92b2ddaae16219595bba7678a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": {
+        "version": "9f794a0e8550a03baff865a3961cc22afbd85bc4ba9672bdda036971928f85f4",
+        "signature": "9f794a0e8550a03baff865a3961cc22afbd85bc4ba9672bdda036971928f85f4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts": {
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/networks/lib/types.d.ts": {
+        "version": "4f1ae3f24125216cf07c5211a3f00d2bb4782d7cc76c0681603f8249f9232ff0",
+        "signature": "4f1ae3f24125216cf07c5211a3f00d2bb4782d7cc76c0681603f8249f9232ff0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/networks/lib/index.d.ts": {
+        "version": "d3fb92a5640f83f7844d60b35317a0f95c27e3658a749d76d218c461ad091668",
+        "signature": "d3fb92a5640f83f7844d60b35317a0f95c27e3658a749d76d218c461ad091668",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/properties/lib/index.d.ts": {
+        "version": "8bc2cad630da1033c1fd8d7df2bffb18af0da6113bd086a8bbec04a2471a1e00",
+        "signature": "8bc2cad630da1033c1fd8d7df2bffb18af0da6113bd086a8bbec04a2471a1e00",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/transactions/node_modules/@ethersproject/bignumber/lib/index.d.ts": {
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/transactions/lib/index.d.ts": {
+        "version": "d1f8bfcd91b284657ef8187c55ace7db91a3c43e642c3f14e54364154932f7e4",
+        "signature": "d1f8bfcd91b284657ef8187c55ace7db91a3c43e642c3f14e54364154932f7e4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/web/lib/index.d.ts": {
+        "version": "d74331ab414bcf86fd0e39cb1f5368f30353340fa2d8e9b15c1bfbb04c72c256",
+        "signature": "d74331ab414bcf86fd0e39cb1f5368f30353340fa2d8e9b15c1bfbb04c72c256",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts": {
+        "version": "3c708082daf2ad2b2fce72947541fdd7b159064b7ce2f5b4bb9c070dd47955ed",
+        "signature": "3c708082daf2ad2b2fce72947541fdd7b159064b7ce2f5b4bb9c070dd47955ed",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": {
+        "version": "bdf5a95eb0a2dd1d39805bdf51b46ba012bb9b92b2ddaae16219595bba7678a5",
+        "signature": "bdf5a95eb0a2dd1d39805bdf51b46ba012bb9b92b2ddaae16219595bba7678a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": {
+        "version": "9f794a0e8550a03baff865a3961cc22afbd85bc4ba9672bdda036971928f85f4",
+        "signature": "9f794a0e8550a03baff865a3961cc22afbd85bc4ba9672bdda036971928f85f4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/bignumber/lib/index.d.ts": {
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "affectsGlobalScope": false
+      },
+      "../src/utils.ts": {
+        "version": "226bbe71ea354cce1703b4726bee299feef3b77add817181f36f618eb9e565a4",
+        "signature": "046b5e8c45b54fd8dd4d8efd685adb3bad276ba0c4f7f0a470cb892761482a93",
+        "affectsGlobalScope": false
+      },
+      "../src/contracts.ts": {
+        "version": "cd9a39e0a340d9897a6b66ac6b1a2db1edb33c5534b29ac06bc224665efcae45",
+        "signature": "34ad616a3498c169228980da6c780e8f3d465affb41b082a91f11c481e3d9f60",
+        "affectsGlobalScope": false
+      },
+      "../src/transferdefinitions/hashlocktransfer.ts": {
+        "version": "71b049ae138ff03ee83535a2d62dcdadc50322b3af0a84696f3fd6c8307e14de",
+        "signature": "4e068edb0fd0709a3d7e3656f8077c9f2cb3d3f781f62a7c4c7529fea4fd7b0b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@sinclair/typebox/typebox.d.ts": {
+        "version": "921622d478f3893c765b6afdd6931ad0237296d05a86c3ac5cfdd06d6c1fd082",
+        "signature": "921622d478f3893c765b6afdd6931ad0237296d05a86c3ac5cfdd06d6c1fd082",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/basic.ts": {
+        "version": "09d82ce188b17e9925d6cd12c7cc9283d704c376d875f52234a3846da6410844",
+        "signature": "1111e67a32c878f6edd4875251bd41d6ec06f68f0e50b1a80f2512cb8537fc8b",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/autorebalance.ts": {
+        "version": "9cac740ad049712eec0ffec4f3af530e97606db45ffe362e65cd4a935c05e455",
+        "signature": "fd0a7348d190a1aa513c13bc09647e29a498945eb112695ee61730999a357c9d",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/config.ts": {
+        "version": "c4c8a39f40b9bd86863b318561a2c17c29a8ae75c44d8940a583a0aff61f31da",
+        "signature": "b26a8b70cc53acd042417ea7d8575c8e5495776937c6f7c5960b7be783af2e7c",
+        "affectsGlobalScope": false
+      },
+      "../src/dispute.ts": {
+        "version": "3c2153d162c27a206529c352d37350a220dfac24724f15b008131e7099bde798",
+        "signature": "2460e1b3a9660a87f864f530d5a952ddb8821ca592e7fad8a15b81f5532f8e8e",
+        "affectsGlobalScope": false
+      },
+      "../src/error.ts": {
+        "version": "c105066e46fae3495f389f6943a4b6c3611e219c20e1b874112b7465370dc9b1",
+        "signature": "b057c9997c4c3f2aefa1f5a46ba0447f4747186ca99e82b764cc2305060bc774",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/bignumber/lib/index.d.ts": {
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts": {
+        "version": "df446aa58c21040d726b32c422420275a19bceed76f44875c308c91701638998",
+        "signature": "df446aa58c21040d726b32c422420275a19bceed76f44875c308c91701638998",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/formatter.d.ts": {
+        "version": "0ff5733dbb97daa6a3f9d43a20d3020c45cb8b00d9918dc20f1ad60f75fda3ef",
+        "signature": "0ff5733dbb97daa6a3f9d43a20d3020c45cb8b00d9918dc20f1ad60f75fda3ef",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/base-provider.d.ts": {
+        "version": "8a62391de4fa87a23f6cbe76c9c9374c02b53c5cd940ef7d5eb895b72d3754be",
+        "signature": "8a62391de4fa87a23f6cbe76c9c9374c02b53c5cd940ef7d5eb895b72d3754be",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-signer/lib/index.d.ts": {
+        "version": "c993f7ed1b8e1023c1f2ee5b262dbc3b70b27475674e40a53a58591f9972dacc",
+        "signature": "c993f7ed1b8e1023c1f2ee5b262dbc3b70b27475674e40a53a58591f9972dacc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts": {
+        "version": "080e4c13d4d137e22ac0bf5a7f9389644821b9a3ddcb723acdf58936f3d99946",
+        "signature": "080e4c13d4d137e22ac0bf5a7f9389644821b9a3ddcb723acdf58936f3d99946",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts": {
+        "version": "53df875d52e0838dee95623391d839f0f25193ce304598edba55db893b692c0c",
+        "signature": "53df875d52e0838dee95623391d839f0f25193ce304598edba55db893b692c0c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts": {
+        "version": "3633f87c97d359cb55fa7bf0668fb2be8a23342951af6ec2d06e6d0cf7409371",
+        "signature": "3633f87c97d359cb55fa7bf0668fb2be8a23342951af6ec2d06e6d0cf7409371",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts": {
+        "version": "cc3a5427d44fc77ff25e80b3edee4650a51f83de761faf5e633994ecf1ab1b44",
+        "signature": "cc3a5427d44fc77ff25e80b3edee4650a51f83de761faf5e633994ecf1ab1b44",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts": {
+        "version": "f421882756b6714834ae4687ab1aeadf344a1cc45437d2edffbac020ff3801c1",
+        "signature": "f421882756b6714834ae4687ab1aeadf344a1cc45437d2edffbac020ff3801c1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts": {
+        "version": "dfb1d4f5b00473a54a4f025ca7606173036bdf111f9806d957d5099e2cd55c62",
+        "signature": "dfb1d4f5b00473a54a4f025ca7606173036bdf111f9806d957d5099e2cd55c62",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts": {
+        "version": "e5cef5de3e5ad3436d414d20743231e284733b9cf4375dc79eff4fcca4282f99",
+        "signature": "e5cef5de3e5ad3436d414d20743231e284733b9cf4375dc79eff4fcca4282f99",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts": {
+        "version": "e624419ba84e33e661e89a28083119ca41f6953dba09a4f82b660684087afe6d",
+        "signature": "e624419ba84e33e661e89a28083119ca41f6953dba09a4f82b660684087afe6d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts": {
+        "version": "942be430bd0feaced2e3e598273b17e50ea565ec9dac840b580b0b99e1a3cd5c",
+        "signature": "942be430bd0feaced2e3e598273b17e50ea565ec9dac840b580b0b99e1a3cd5c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts": {
+        "version": "73350006cec5a0c6b71d53b0b0ddbfb82be96752a9c4e3c904c59e633bc9485e",
+        "signature": "73350006cec5a0c6b71d53b0b0ddbfb82be96752a9c4e3c904c59e633bc9485e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts": {
+        "version": "a7df5c2e9594966c7e0d4a763b13ed5727506d892669df5f7bc9826f539c1d35",
+        "signature": "a7df5c2e9594966c7e0d4a763b13ed5727506d892669df5f7bc9826f539c1d35",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts": {
+        "version": "2286a5599f5746d6ae48dceef0322b020e6d0b0b0b64683492ac6cda6809c6d0",
+        "signature": "2286a5599f5746d6ae48dceef0322b020e6d0b0b0b64683492ac6cda6809c6d0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts": {
+        "version": "00a6db28fc4df6ddf10adbe630d9df620ec13af19039c1869653e60dafa739d2",
+        "signature": "00a6db28fc4df6ddf10adbe630d9df620ec13af19039c1869653e60dafa739d2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/providers/lib/index.d.ts": {
+        "version": "fd74a72127eba44278fdd3244157d5646681b9e5298de2765edbb5eb5b256fb9",
+        "signature": "fd74a72127eba44278fdd3244157d5646681b9e5298de2765edbb5eb5b256fb9",
+        "affectsGlobalScope": false
+      },
+      "../src/network.ts": {
+        "version": "8c3d111d418a1e79b372e12a4050e95e31cd65fd58b95556b38d193263230108",
+        "signature": "6f6242db0ef3a872d8cb0609c158e8607384e410001b22d0595e09017ce87ac6",
+        "affectsGlobalScope": false
+      },
+      "../src/vectorprovider.ts": {
+        "version": "5476b3780ab8a6ab4d9f073393f31cbfc2316f5a6058a87302426eab0c64ce6f",
+        "signature": "0478bef70cc0395c941efe5792784094de0b9b7abc4bd1290b8d2d0d2994551d",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/engine.ts": {
+        "version": "03be140dc61f0c1cec929954ae0885e05406e63dcbf9143999b631ce1ac437ed",
+        "signature": "91d7dc5b479da0947c532e7947fce599f9ef7b5fc75239e91f802dd6097af8f6",
+        "affectsGlobalScope": false
+      },
+      "../src/transferdefinitions/withdraw.ts": {
+        "version": "8f8aa3b588958d556f82856609c1657283046d57ab96a50a466a533576bf7321",
+        "signature": "3507ae5d9688fb3449f797486a63b8b2497242e3b31083ee7cf3b2f5951a573c",
+        "affectsGlobalScope": false
+      },
+      "../src/store.ts": {
+        "version": "e9036655a0f5f411dd6bbb33c23b7a198f3ad36b40f217f7d96172d6a28246f6",
+        "signature": "5d2b995deab3986a7c73b7a316bf13d06a6131d477571a06135f7939a5643a1b",
+        "affectsGlobalScope": false
+      },
+      "../src/event.ts": {
+        "version": "7213406da9c893de87213f4fa6a234419aa304148dad2ec4c36ed677a1d66327",
+        "signature": "ff23bb07df672de6ce8194c402fcb15ef9c8eeafd28430d97746d895ebf1e52b",
+        "affectsGlobalScope": false
+      },
+      "../src/engine.ts": {
+        "version": "3bf2d232e53ae4c9930c6f98457b731aeba0e2364943afc811a052e43b778151",
+        "signature": "957a90f8c8c0d77b1dd72dcf7d118763ba22ddfcfc17edeb02b0748c5bc3bfb5",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/node.ts": {
+        "version": "8c8da153ec03ce16519317931979f5f652dc659e1262b8a1cc4488a07fcef7ff",
+        "signature": "6429df69c880dae3d4e1b593991e519cc170cb08b2d126e6e7beea5878d56316",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/protocol.ts": {
+        "version": "0c7b47b2e91af883e5a4be75dd8525decd8de37aab35df161fb3cacaaaf3601b",
+        "signature": "ae19ed86a0fff0230f444423be8598ff79b5d4baa755444229aa15dc5e02a110",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/router.ts": {
+        "version": "5cc04d615a24b9c024db3ad8eaeefb3e129a857e717a782f28edbf672fc98e3f",
+        "signature": "b74e14138ad2f2b8f1d9307b7cb7b15d89a1207524cf60323a01a1fee147b05b",
+        "affectsGlobalScope": false
+      },
+      "../src/schemas/index.ts": {
+        "version": "45d13abc617247cce55bdb2fc9eda07db21d86ae22e7ce146d856a502619a125",
+        "signature": "6b89b462b09652b80eb27b1e1edd6485459e8534444969b0da8e495bf4a78d4f",
+        "affectsGlobalScope": false
+      },
+      "../src/transferdefinitions/shared.ts": {
+        "version": "472f83f921f5c2d5023cc5625f9f5230fc77534f6abb3411591f472ae92edba0",
+        "signature": "81afcae0982b40c7f80b1f543efe69f07c09f70c1aa6a30c53b25036931fb5e7",
+        "affectsGlobalScope": false
+      },
+      "../src/transferdefinitions/index.ts": {
+        "version": "ab098e5ee5528732e0592f183b8b833bae8467125d7563cdfbcd2f276deb0871",
+        "signature": "785e3f91a737d85ddfbd947af2562d4416b2fa1600407c1e98939b2ae12a9ea3",
+        "affectsGlobalScope": false
+      },
+      "../src/channel.ts": {
+        "version": "95232981ca343df79b7fd0fe5f30a4c1f774aa09a4e958bb007b21f2b65cf659",
+        "signature": "cb6e94058b2f3b084b0a674a8eb7194ee6fccdbf5e351b78b19b120d78276a3e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/units/node_modules/@ethersproject/bignumber/lib/index.d.ts": {
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/units/lib/index.d.ts": {
+        "version": "2b88f02598c9de626b35fbe3ffb1ef33ad9fd175e36e06ba27dc79e444796f6c",
+        "signature": "2b88f02598c9de626b35fbe3ffb1ef33ad9fd175e36e06ba27dc79e444796f6c",
+        "affectsGlobalScope": false
+      },
+      "../src/constants.ts": {
+        "version": "1c52b2f60d7f8c0feb0199b6dd1fd0267e9e7b5298330c27e0694147788b2f05",
+        "signature": "2894f6670fa51dbbb3121c6eeadb85785f2f183daf1207ab9cde926ac4325b4f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/abstract-provider/lib/index.d.ts": {
+        "version": "df446aa58c21040d726b32c422420275a19bceed76f44875c308c91701638998",
+        "signature": "df446aa58c21040d726b32c422420275a19bceed76f44875c308c91701638998",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/bignumber/lib/index.d.ts": {
+        "version": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "signature": "66a697d1e4cdbf25cdce4644a8085a8563041fa8c7731d4d9f5e8f22e66ba72c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts": {
+        "version": "d438c81dfcef4504915e728a33e0f68b3159385a92d40e392cc0a0b9ce1dd819",
+        "signature": "d438c81dfcef4504915e728a33e0f68b3159385a92d40e392cc0a0b9ce1dd819",
+        "affectsGlobalScope": false
+      },
+      "../src/crypto.ts": {
+        "version": "cd0950fedc7d67f41260fee7a92a7db0cfe81d15104d6f9bd7affd6b928593d5",
+        "signature": "3d77abe6002ab4ec2c09e0324006126d16d3029ceac7a284d81b3ab2dff38b1f",
+        "affectsGlobalScope": false
+      },
+      "../src/externalvalidation.ts": {
+        "version": "2b46da0c189ab589960c6e3b350a6501a30ce1dcb594a4bf1fae1674ebef1814",
+        "signature": "489768b005b6dfb7cb7fb787cbe6e876063bc861f39348cd02d6665e46344ac3",
+        "affectsGlobalScope": false
+      },
+      "../src/lock.ts": {
+        "version": "6ba24d131b45cca60e15da750de9aacd6d7c9b66ff43c7fe326bc16e82501a52",
+        "signature": "d07fe7ce7d9ec096cea08eaf829ec1ac08d0dc552d80bd747d6b466e2a22323a",
+        "affectsGlobalScope": false
+      },
+      "../src/messaging.ts": {
+        "version": "0901595c303bd32f1ab7d0fc5a82e4d571600fcf35b36099fa10613c313521e5",
+        "signature": "2aa4326cfffa7db33c01254a96b420692e068ba2daae8f119ae2837f935d34d9",
+        "affectsGlobalScope": false
+      },
+      "../src/node.ts": {
+        "version": "1f1eaa5a06bd30718640f6325d2355b9b9548ab42ded700a2fa04e00465b796a",
+        "signature": "876c1cdb391a8aaf1e8f64aea872ca186f0496ea11cf0b42a571b695391e7b26",
+        "affectsGlobalScope": false
+      },
+      "../src/protocol.ts": {
+        "version": "0ebdfbd0a5567224e8bea933d5a9bf10709187855f86cdb0b0d17ffcec3b3cce",
+        "signature": "bf0dd7fc73d3201709b138f97b8816b0e059726d3c61242970b2b63b6fed5fa7",
+        "affectsGlobalScope": false
+      },
+      "../src/rpc.ts": {
+        "version": "aaced6205595f11bf6e20982bc63d3b44461da4d6c1e7eea1e555748833b297c",
+        "signature": "2eb440943092f4670e108b74f9fc2fadf329ae21e57add887d926ff609b3c8c7",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "00c4389b4b2fd0ff83fe3ecda7614dd8d8c916e8b683f1e63ae6da18a4442dd3",
+        "signature": "0690e20dbac29e5513daccb95078c99dbfc41012dbf6a02f6e3685b7aa06f7b7",
+        "affectsGlobalScope": false
+      },
+      "../src/chain.ts": {
+        "version": "fe980e3910c10b8dca7c38abd6bb62cf0867b58a93c4be0e231872a6cbaff504",
+        "signature": "0090e0ca0c26d3f02780d8be2070018984a4dc9e01e72a2516a2021b41be1ed3",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "allowJs": false,
+      "allowSyntheticDefaultImports": true,
+      "declaration": true,
+      "declarationMap": true,
+      "emitDecoratorMetadata": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "forceConsistentCasingInFileNames": true,
+      "lib": [
+        "lib.es2017.d.ts",
+        "lib.dom.d.ts",
+        "lib.es2018.asynciterable.d.ts",
+        "lib.es2019.d.ts"
+      ],
+      "module": 99,
+      "moduleResolution": 2,
+      "noImplicitAny": false,
+      "noImplicitReturns": true,
+      "noLib": false,
+      "noUnusedLocals": false,
+      "noUnusedParameters": false,
+      "removeComments": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "sourceMap": true,
+      "strict": true,
+      "target": 4,
+      "typeRoots": [
+        "../node_modules/@types"
+      ],
+      "composite": true,
+      "outDir": "./",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": [
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/abstract-provider/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": [
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": [
+        "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/networks/lib/index.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/types.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/base-provider.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/formatter.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/index.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts": [
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts": [
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-signer/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/transactions/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/transactions/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/units/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/units/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../src/chain.ts": [
+        "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../src/basic.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/error.ts",
+        "../src/event.ts",
+        "../src/index.ts",
+        "../src/network.ts",
+        "../src/transferdefinitions/index.ts"
+      ],
+      "../src/channel.ts": [
+        "../src/basic.ts",
+        "../src/contracts.ts",
+        "../src/transferdefinitions/index.ts",
+        "../src/utils.ts"
+      ],
+      "../src/constants.ts": [
+        "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/units/lib/index.d.ts"
+      ],
+      "../src/contracts.ts": [
+        "../src/utils.ts"
+      ],
+      "../src/crypto.ts": [
+        "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
+        "../src/basic.ts"
+      ],
+      "../src/engine.ts": [
+        "../src/basic.ts",
+        "../src/chain.ts",
+        "../src/channel.ts",
+        "../src/event.ts",
+        "../src/schemas/index.ts",
+        "../src/transferdefinitions/index.ts",
+        "../src/vectorprovider.ts"
+      ],
+      "../src/error.ts": [
+        "../src/channel.ts"
+      ],
+      "../src/event.ts": [
+        "../node_modules/@ethersproject/providers/lib/index.d.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/store.ts"
+      ],
+      "../src/externalvalidation.ts": [
+        "../src/channel.ts",
+        "../src/error.ts"
+      ],
+      "../src/index.ts": [
+        "../src/basic.ts",
+        "../src/chain.ts",
+        "../src/channel.ts",
+        "../src/constants.ts",
+        "../src/contracts.ts",
+        "../src/crypto.ts",
+        "../src/dispute.ts",
+        "../src/engine.ts",
+        "../src/error.ts",
+        "../src/event.ts",
+        "../src/externalvalidation.ts",
+        "../src/lock.ts",
+        "../src/messaging.ts",
+        "../src/network.ts",
+        "../src/node.ts",
+        "../src/protocol.ts",
+        "../src/rpc.ts",
+        "../src/schemas/index.ts",
+        "../src/store.ts",
+        "../src/transferdefinitions/index.ts",
+        "../src/utils.ts",
+        "../src/vectorprovider.ts"
+      ],
+      "../src/messaging.ts": [
+        "../src/channel.ts",
+        "../src/engine.ts",
+        "../src/error.ts",
+        "../src/lock.ts",
+        "../src/schemas/index.ts"
+      ],
+      "../src/network.ts": [
+        "../node_modules/@ethersproject/providers/lib/index.d.ts"
+      ],
+      "../src/node.ts": [
+        "../src/engine.ts",
+        "../src/error.ts",
+        "../src/schemas/index.ts"
+      ],
+      "../src/protocol.ts": [
+        "../src/channel.ts",
+        "../src/error.ts",
+        "../src/event.ts"
+      ],
+      "../src/schemas/autorebalance.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/schemas/basic.ts"
+      ],
+      "../src/schemas/basic.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/channel.ts"
+      ],
+      "../src/schemas/config.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/schemas/basic.ts"
+      ],
+      "../src/schemas/engine.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/schemas/basic.ts",
+        "../src/vectorprovider.ts"
+      ],
+      "../src/schemas/index.ts": [
+        "../src/schemas/autorebalance.ts",
+        "../src/schemas/basic.ts",
+        "../src/schemas/config.ts",
+        "../src/schemas/engine.ts",
+        "../src/schemas/node.ts",
+        "../src/schemas/protocol.ts",
+        "../src/schemas/router.ts"
+      ],
+      "../src/schemas/node.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/engine.ts",
+        "../src/schemas/basic.ts",
+        "../src/schemas/engine.ts"
+      ],
+      "../src/schemas/protocol.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/schemas/basic.ts"
+      ],
+      "../src/schemas/router.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/schemas/basic.ts"
+      ],
+      "../src/store.ts": [
+        "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../src/basic.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/index.ts",
+        "../src/schemas/engine.ts",
+        "../src/transferdefinitions/withdraw.ts"
+      ],
+      "../src/transferdefinitions/hashlocktransfer.ts": [
+        "../src/basic.ts",
+        "../src/utils.ts"
+      ],
+      "../src/transferdefinitions/index.ts": [
+        "../src/transferdefinitions/hashlocktransfer.ts",
+        "../src/transferdefinitions/shared.ts",
+        "../src/transferdefinitions/withdraw.ts"
+      ],
+      "../src/transferdefinitions/shared.ts": [
+        "../src/basic.ts",
+        "../src/error.ts",
+        "../src/schemas/index.ts",
+        "../src/transferdefinitions/hashlocktransfer.ts",
+        "../src/transferdefinitions/withdraw.ts",
+        "../src/utils.ts"
+      ],
+      "../src/transferdefinitions/withdraw.ts": [
+        "../src/basic.ts",
+        "../src/schemas/index.ts",
+        "../src/utils.ts"
+      ],
+      "../src/vectorprovider.ts": [
+        "../src/chain.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/error.ts",
+        "../src/network.ts",
+        "../src/schemas/index.ts",
+        "../src/transferdefinitions/index.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": [
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/abstract-provider/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts": [
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts": [
+        "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/networks/lib/index.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/types.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/base-provider.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/formatter.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/index.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts": [
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts": [
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts": [
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+        "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/networks/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+        "../node_modules/@ethersproject/web/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-signer/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+        "../node_modules/@ethersproject/properties/lib/index.d.ts",
+        "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/transactions/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../node_modules/@ethersproject/bytes/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/transactions/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../node_modules/@ethersproject/units/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts"
+      ],
+      "../node_modules/@ethersproject/units/node_modules/@ethersproject/bignumber/lib/index.d.ts": [
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+        "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts"
+      ],
+      "../src/chain.ts": [
+        "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
+        "../src/basic.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/error.ts",
+        "../src/event.ts",
+        "../src/index.ts",
+        "../src/network.ts",
+        "../src/transferdefinitions/index.ts"
+      ],
+      "../src/channel.ts": [
+        "../src/basic.ts",
+        "../src/transferdefinitions/index.ts"
+      ],
+      "../src/crypto.ts": [
+        "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
+        "../src/basic.ts"
+      ],
+      "../src/engine.ts": [
+        "../src/basic.ts",
+        "../src/chain.ts",
+        "../src/channel.ts",
+        "../src/event.ts",
+        "../src/schemas/index.ts",
+        "../src/transferdefinitions/index.ts",
+        "../src/vectorprovider.ts"
+      ],
+      "../src/error.ts": [
+        "../src/channel.ts"
+      ],
+      "../src/event.ts": [
+        "../node_modules/@ethersproject/providers/lib/index.d.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/store.ts"
+      ],
+      "../src/externalvalidation.ts": [
+        "../src/channel.ts",
+        "../src/error.ts"
+      ],
+      "../src/index.ts": [
+        "../src/basic.ts",
+        "../src/chain.ts",
+        "../src/channel.ts",
+        "../src/constants.ts",
+        "../src/contracts.ts",
+        "../src/crypto.ts",
+        "../src/dispute.ts",
+        "../src/engine.ts",
+        "../src/error.ts",
+        "../src/event.ts",
+        "../src/externalvalidation.ts",
+        "../src/lock.ts",
+        "../src/messaging.ts",
+        "../src/network.ts",
+        "../src/node.ts",
+        "../src/protocol.ts",
+        "../src/rpc.ts",
+        "../src/schemas/index.ts",
+        "../src/store.ts",
+        "../src/transferdefinitions/index.ts",
+        "../src/utils.ts",
+        "../src/vectorprovider.ts"
+      ],
+      "../src/messaging.ts": [
+        "../src/channel.ts",
+        "../src/engine.ts",
+        "../src/error.ts",
+        "../src/lock.ts",
+        "../src/schemas/index.ts"
+      ],
+      "../src/network.ts": [
+        "../node_modules/@ethersproject/providers/lib/index.d.ts"
+      ],
+      "../src/node.ts": [
+        "../src/engine.ts",
+        "../src/error.ts",
+        "../src/schemas/index.ts"
+      ],
+      "../src/protocol.ts": [
+        "../src/channel.ts",
+        "../src/error.ts",
+        "../src/event.ts"
+      ],
+      "../src/schemas/autorebalance.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts"
+      ],
+      "../src/schemas/basic.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/channel.ts"
+      ],
+      "../src/schemas/config.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts"
+      ],
+      "../src/schemas/engine.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/vectorprovider.ts"
+      ],
+      "../src/schemas/index.ts": [
+        "../src/schemas/autorebalance.ts",
+        "../src/schemas/basic.ts",
+        "../src/schemas/config.ts",
+        "../src/schemas/engine.ts",
+        "../src/schemas/node.ts",
+        "../src/schemas/protocol.ts",
+        "../src/schemas/router.ts"
+      ],
+      "../src/schemas/node.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts",
+        "../src/engine.ts",
+        "../src/index.ts"
+      ],
+      "../src/schemas/protocol.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts"
+      ],
+      "../src/schemas/router.ts": [
+        "../node_modules/@sinclair/typebox/typebox.d.ts"
+      ],
+      "../src/store.ts": [
+        "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+        "../src/basic.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/index.ts",
+        "../src/schemas/engine.ts",
+        "../src/transferdefinitions/withdraw.ts"
+      ],
+      "../src/transferdefinitions/hashlocktransfer.ts": [
+        "../src/basic.ts"
+      ],
+      "../src/transferdefinitions/index.ts": [
+        "../src/transferdefinitions/hashlocktransfer.ts",
+        "../src/transferdefinitions/shared.ts",
+        "../src/transferdefinitions/withdraw.ts"
+      ],
+      "../src/transferdefinitions/shared.ts": [
+        "../src/basic.ts",
+        "../src/error.ts",
+        "../src/transferdefinitions/hashlocktransfer.ts",
+        "../src/transferdefinitions/withdraw.ts"
+      ],
+      "../src/transferdefinitions/withdraw.ts": [
+        "../src/basic.ts"
+      ],
+      "../src/vectorprovider.ts": [
+        "../src/chain.ts",
+        "../src/channel.ts",
+        "../src/dispute.ts",
+        "../src/error.ts",
+        "../src/network.ts",
+        "../src/schemas/index.ts",
+        "../src/transferdefinitions/index.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts",
+      "../node_modules/@ethersproject/abstract-provider/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+      "../node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+      "../node_modules/@ethersproject/abstract-signer/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+      "../node_modules/@ethersproject/bignumber/lib/bignumber.d.ts",
+      "../node_modules/@ethersproject/bignumber/lib/fixednumber.d.ts",
+      "../node_modules/@ethersproject/bignumber/lib/index.d.ts",
+      "../node_modules/@ethersproject/bytes/lib/index.d.ts",
+      "../node_modules/@ethersproject/networks/lib/index.d.ts",
+      "../node_modules/@ethersproject/networks/lib/types.d.ts",
+      "../node_modules/@ethersproject/properties/lib/index.d.ts",
+      "../node_modules/@ethersproject/providers/lib/alchemy-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/base-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/cloudflare-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/etherscan-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/fallback-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/formatter.d.ts",
+      "../node_modules/@ethersproject/providers/lib/index.d.ts",
+      "../node_modules/@ethersproject/providers/lib/infura-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/ipc-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/json-rpc-batch-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/json-rpc-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/nodesmith-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/pocket-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/url-json-rpc-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/web3-provider.d.ts",
+      "../node_modules/@ethersproject/providers/lib/websocket-provider.d.ts",
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-provider/lib/index.d.ts",
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/abstract-signer/lib/index.d.ts",
+      "../node_modules/@ethersproject/providers/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+      "../node_modules/@ethersproject/transactions/lib/index.d.ts",
+      "../node_modules/@ethersproject/transactions/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+      "../node_modules/@ethersproject/units/lib/index.d.ts",
+      "../node_modules/@ethersproject/units/node_modules/@ethersproject/bignumber/lib/index.d.ts",
+      "../node_modules/@ethersproject/web/lib/index.d.ts",
+      "../node_modules/@sinclair/typebox/typebox.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../src/basic.ts",
+      "../src/chain.ts",
+      "../src/channel.ts",
+      "../src/constants.ts",
+      "../src/contracts.ts",
+      "../src/crypto.ts",
+      "../src/dispute.ts",
+      "../src/engine.ts",
+      "../src/error.ts",
+      "../src/event.ts",
+      "../src/externalvalidation.ts",
+      "../src/index.ts",
+      "../src/lock.ts",
+      "../src/messaging.ts",
+      "../src/network.ts",
+      "../src/node.ts",
+      "../src/protocol.ts",
+      "../src/rpc.ts",
+      "../src/schemas/autorebalance.ts",
+      "../src/schemas/basic.ts",
+      "../src/schemas/config.ts",
+      "../src/schemas/engine.ts",
+      "../src/schemas/index.ts",
+      "../src/schemas/node.ts",
+      "../src/schemas/protocol.ts",
+      "../src/schemas/router.ts",
+      "../src/store.ts",
+      "../src/transferdefinitions/hashlocktransfer.ts",
+      "../src/transferdefinitions/index.ts",
+      "../src/transferdefinitions/shared.ts",
+      "../src/transferdefinitions/withdraw.ts",
+      "../src/utils.ts",
+      "../src/vectorprovider.ts"
+    ]
+  },
+  "version": "4.2.4"
+}
